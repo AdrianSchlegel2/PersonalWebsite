@@ -12,6 +12,8 @@ body {
     font-family: 'Merriweather', serif;
     margin: 0px;
     text-align: center;
+    line-height: 2;
+    color: 40514E;
 }
 
 .top-container {
